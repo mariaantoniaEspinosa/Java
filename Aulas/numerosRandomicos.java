@@ -15,5 +15,18 @@ public class random {
         System.out.println(num);
         System.out.println(num2);
         System.out.println(num3);
+
+
+        //* boolean isnum;
+
+      //  isnum = random.nextBoolean();
+
+      //  if(isnum){
+       //     System.out.println("é numero");
+       // } else{
+       //     System.out.println("nao é numero");
+       // }
+
+
     }
 }
