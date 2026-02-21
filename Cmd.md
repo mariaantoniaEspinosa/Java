@@ -1,7 +1,8 @@
 ## Comandos para executar seu programa Java no Terminal do Computador.
 ### Nesta ordem, digite: 
-- cd OneDrive 
-- Documentos
+- cd Downloads
+- cd Java
 - dir
-- java NOME.java
-- java NOME (se não executar direto com o outro comando)
+- javac NOME.java
+- dir (verifique se foi criado NOME.class)
+- java NOME 
